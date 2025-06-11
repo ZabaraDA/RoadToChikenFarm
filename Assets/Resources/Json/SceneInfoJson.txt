@@ -1,10 +1,67 @@
-{
+﻿{
 	"value" : [
 		{
 		  "id": 1,
 		  "name": "Page 1",
-		  "imagePath": "/PageContent/Images/Page1Image",
+		  "header": "Production",
+		  "imageName": "Level 1",
 		  "text": "Chickens are domesticated birds that belong to the pheasant family. Although they have become an integral part of agriculture and everyday life, these birds have many interesting features that make them amazing creatures. Let's delve into the world of chickens and look at various aspects of their life, behavior, breeding, and cultural significance."
+		},
+		{
+		  "id": 2,
+		  "name": "Page 2",
+		  "header": "Phisycal Characteristics",
+		  "imageName": "Level 2",
+		  "text": "Physically, chickens also have their own unique characteristics. They can come in an incredible variety of colors, sizes, and shapes, thanks to centuries of selective breeding and development of different breeds. There are over 25 billion chickens worldwide, all of which come from different breeds that can differ in characteristics such as egg production, meat quality, and behavior."
+		},
+		{
+		  "id": 3,
+		  "name": "Page 3",
+		  "header": "Intelligence",
+		  "imageName": "Level 3",
+		  "text": "Chickens can also be considered very intelligent creatures. Research shows that they are able to remember people and other chickens, recognize individuals by their faces, and even show emotional reactions. For example, a chicken may experience stress when separated from its flock, or even depression if it loses a friend, which indicates that they have a difficult emotional life. Chickens can also learn, memorize, and solve simple tasks on their own, which puts them on a level similar to some other intelligent animals such as dogs or pigs."
+		},
+		{
+		  "id": 4,
+		  "name": "Page 4",
+		  "header": "How to choose meat?",
+		  "imageName": "Level 4",
+		  "text": " How to Choose Chicken Meat?
+🔍 Appearance
+Color:
+Fresh meat: Pale pink or slightly yellowish (varies by chicken breed and feed).
+Stale meat: Dull color, grayish tint, presence of spots.
+Frozen meat: Once defrosted, should resemble the color of fresh meat.
+✋ Texture
+Fresh meat: Firm and elastic; quickly returns to shape when pressed.
+Stale meat: Sticky, slippery, or unnaturally soft.
+👃 Smell
+Fresh meat: Neutral or slightly meaty aroma.
+Stale meat: Sour or putrid odor.
+🧴 Skin Condition
+Fresh meat: Clean, undamaged, free of bruises.
+Stale meat: Sticky, slimy skin with dark spots or discoloration."
+		},
+		{
+		  "id": 5,
+		  "name": "Page 5",
+		  "header": "Quick recipe",
+		  "imageName": "Level 5",
+		  "text": "🍳 Extra Quick Recipe
+Chicken with Vegetables in a Frying Pan
+ ⏱️ Ready in just 20 minutes!
+📝 Ingredients:
+Chicken fillet – 2 pieces (or chicken breasts)
+Vegetables (choose to your taste, for example):
+Broccoli – 1 small head (or frozen)
+Sweet peppers – 1–2 pcs (red, yellow, or orange)
+Onion – 1 pc
+Garlic – 2 cloves
+Soy sauce – 2–3 tbsp
+Vegetable oil – for frying
+Salt and pepper – to taste
+Ground ginger (optional) – a pinch
+Sesame seeds (optional) – for garnish"
 		}
 
 	]
