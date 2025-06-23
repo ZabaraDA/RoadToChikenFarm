@@ -1,0 +1,83 @@
+﻿{
+  "value": [
+    {
+      "id": 1,
+      "questionText": "Which family do chickens belong to?",
+      "answers": [
+        {
+          "id": 1,
+          "answerText": "a. Chicken family",
+          "isCorrectAnswer": false
+        },
+        {
+          "id": 2,
+          "answerText": "b. Quail family",
+          "isCorrectAnswer": false
+        },
+        {
+          "id": 3,
+          "answerText": "c. Pheasant family",
+          "isCorrectAnswer": true
+        },
+        {
+          "id": 4,
+          "answerText": "d. Pigeon family",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "questionText": "Can a chicken display emotional reactions?",
+      "answers": [
+        {
+          "id": 1,
+          "answerText": "a. Yes",
+          "isCorrectAnswer": true
+        },
+        {
+          "id": 2,
+          "answerText": "b. No",
+          "isCorrectAnswer": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "questionText": "To which animals are chickens intellectually closest?",
+      "answers": [
+        {
+          "id": 1,
+          "answerText": "a. Chimpanzees and elephants",
+          "isCorrectAnswer": false
+        },
+        {
+          "id": 2,
+          "answerText": "b. Pigeons and corvids",
+          "isCorrectAnswer": false
+        },
+        {
+          "id": 3,
+          "answerText": "c. Dogs and pigs",
+          "isCorrectAnswer": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "questionText": "Can chickens experience stress?",
+      "answers": [
+        {
+          "id": 1,
+          "answerText": "a. Yes",
+          "isCorrectAnswer": true
+        },
+        {
+          "id": 2,
+          "answerText": "b. No",
+          "isCorrectAnswer": false
+        }
+      ]
+    }
+  ]
+}

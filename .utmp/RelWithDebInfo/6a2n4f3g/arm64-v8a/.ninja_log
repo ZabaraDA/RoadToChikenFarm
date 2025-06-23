@@ -1,0 +1,23 @@
+# ninja log v5
+3	1010	7723891424841852	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bcc31502a0009aeb
+30	131	7723891416102099	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	28cf233625a6b82e
+131	224	7723891416949211	E:/Unity Project/RoadToChikenFarm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a2n4f3g/obj/arm64-v8a/libswappywrapper.so	b1ecd7e81eaf36b3
+7	752	7723891422290048	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5113d560d95a2574
+26	881	7723891423586952	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7aa8c4deb8a91ff
+9	780	7723891422575187	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d385f92819d46bed
+18	733	7723891422104217	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	aaffbcaf742f9cc7
+12	858	7723891423341822	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	561e09a4a0b8c05f
+1010	1068	7723891425457927	E:/Unity Project/RoadToChikenFarm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a2n4f3g/obj/arm64-v8a/libgame.so	c63215d8cb4e77f
+15	757	7723891422334956	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	901119ebc52f8b8a
+22	961	7723891424367470	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5781ce7da6535217
+30	128	7723891872864107	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	28cf233625a6b82e
+128	221	7723891873714092	E:/Unity Project/RoadToChikenFarm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a2n4f3g/obj/arm64-v8a/libswappywrapper.so	b1ecd7e81eaf36b3
+20	723	7723891878788670	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	aaffbcaf742f9cc7
+14	740	7723891878978866	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5113d560d95a2574
+7	742	7723891878988850	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d385f92819d46bed
+17	768	7723891879268984	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	901119ebc52f8b8a
+10	815	7723891879730613	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	561e09a4a0b8c05f
+27	855	7723891880126577	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7aa8c4deb8a91ff
+23	944	7723891881022510	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5781ce7da6535217
+4	1008	7723891881636086	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bcc31502a0009aeb
+1008	1064	7723891882233120	E:/Unity Project/RoadToChikenFarm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6a2n4f3g/obj/arm64-v8a/libgame.so	c63215d8cb4e77f

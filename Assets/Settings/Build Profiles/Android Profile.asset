@@ -163,14 +163,14 @@ MonoBehaviour:
     - line: '|   loadStoreDebugModeEnabled: 0'
     - line: '|   visionOSBundleVersion: 1.0'
     - line: '|   tvOSBundleVersion: 1.0'
-    - line: '|   bundleVersion: 1.0.0'
+    - line: '|   bundleVersion: 1.0.1'
     - line: '|   preloadedAssets:'
+    - line: '|   - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100,
+        type: 3}'
     - line: '|   - {fileID: 4076633888611734450, guid: e3f3be3a84d82784b92dc86d4d2d564c,
         type: 2}'
     - line: '|   - {fileID: 11400000, guid: d14bb45354fe01f4581df1146444e5c0, type:
         2}'
-    - line: '|   - {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100,
-        type: 3}'
     - line: '|   metroInputSource: 0'
     - line: '|   wsaTransparentSwapchain: 0'
     - line: '|   m_HolographicPauseOnTrackingLoss: 1'
@@ -297,8 +297,7 @@ MonoBehaviour:
     - line: '|   AndroidTargetArchitectures: 2'
     - line: '|   AndroidSplashScreenScale: 0'
     - line: '|   androidSplashScreen: {instanceID: 0}'
-    - line: '|   AndroidKeystoreName: C:/Developer Files/Keystor Files/Road to chiken
-        farm.keystore'
+    - line: '|   AndroidKeystoreName: ''{inproject}: Road to chiken farm.keystore'''
     - line: '|   AndroidKeyaliasName: com.roadtochikenfarm'
     - line: '|   AndroidEnableArmv9SecurityFeatures: 0'
     - line: '|   AndroidEnableArm64MTE: 0'

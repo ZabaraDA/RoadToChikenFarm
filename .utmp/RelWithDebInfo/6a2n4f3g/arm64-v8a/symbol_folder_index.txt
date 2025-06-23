@@ -1,0 +1,1 @@
+E:\Unity Project\RoadToChikenFarm\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6a2n4f3g\obj\arm64-v8a
